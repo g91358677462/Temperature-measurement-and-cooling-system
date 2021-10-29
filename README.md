@@ -11,4 +11,8 @@
 電路說明: 外接電源為12V，用來驅動12V風扇，但8051供電為5V，所以用個"7805-CT 線性電壓穩壓器"來做降低電壓的動作。
 
 # - 流程圖說明
-<img src="https://github.com/g91358677462/-/blob/main/assets/%E4%B8%BB%E6%B5%81%E7%A8%8B%E5%9C%96.png" width="50%" height="50%">
+<img src="https://github.com/g91358677462/-/blob/main/assets/%E6%B5%81%E7%A8%8B%E5%9C%96.png" width="50%" height="50%">
+
+# - 電路說明
+<img src="https://github.com/g91358677462/-/blob/main/assets/%E9%9B%BB%E8%B7%AF%E8%A8%AD%E8%A8%88%E6%A6%82%E5%BF%B5%E6%96%B9%E5%A1%8A%E5%9C%96.PNG" width="50%" height="50%">
+其外接電源為12V，用來驅動12V風扇，但8051供電為5V，所以用個"7805-CT 線性電壓穩壓器"來做降低電壓的動作。
